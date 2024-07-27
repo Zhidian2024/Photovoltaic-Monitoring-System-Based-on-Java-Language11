@@ -2,6 +2,13 @@
 基于Java语言的光伏监控系统+光伏发电系统+光伏软件系统+光伏监控系统源码+光伏发电系统源码-智电云
 # 一、 介绍
 基于Java语言的光伏监控系统+光伏发电系统+光伏软件系统+光伏监控系统源码+光伏发电系统源码-智电云
+当前版本：V2.0.1
+   
+[🔥 光伏监控平台介绍](https://gitee.com/zhidian-cloud/guangfu)
+   
+[🔥 光伏发电平台介绍](https://gitee.com/zhidian-cloud/guangfu)
+
+[🔥 逆变器监控系统介绍](https://gitee.com/zhidian-cloud/guangfu)
 
 # 二、开发语言
 Spring Cloud是一个基于Spring Boot实现的服务治理工具包，它为微服务架构中常见的模式提供了简化的编程模型，比如配置管理、服务发现、断路器、智能路由、微代理、控制总线等。
