@@ -27,8 +27,8 @@
 ![extending-a-theme](/16.png)
 ![extending-a-theme](/17.png)
 ![extending-a-theme](/18.png)
-![extending-a-theme](/19.jpg)
-![extending-a-theme](/20.jpg)
+![extending-a-theme](/19.png)
+![extending-a-theme](/20.png)
 ![extending-a-theme](/21.jpg)
 
 
